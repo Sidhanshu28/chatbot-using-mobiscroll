@@ -1,4 +1,4 @@
-var typing = '<img src="./Ellipsis-1s-200px.gif" width=25px height=25px; style="background:transparent;" />';
+var typing = '<img src="./ellipsis.gif" width=25px height=25px; style="background:transparent;" />';
 var loadingli = "<li class='bot_text' style='display:inline-block;'>"+typing+"</li>";
 var index = 1;
 var globalFlagForMargin = false;
